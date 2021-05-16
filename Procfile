@@ -1,1 +1,1 @@
-web:gunicorn onlineexam.wsgi
+web: gunicorn onlineexam.wsgi
