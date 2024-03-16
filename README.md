@@ -1,3 +1,7 @@
+***Note*: live demo of the project is not accessible now as it was deployed on Heroku free tier, a cloud-based development-platform-as-a-service provider, that stopped offering free tiers on November 28, 2022**
+--------------------
+
+
 # django-studyportal
 
 
